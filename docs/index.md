@@ -28,8 +28,10 @@ If you have major coding issues with this bot, please join and ask for help.
 
 ## 📸 Screenshots
 
-[![Command 1](/assets/Screenshot_1.png)[![Command 2](/assets/Screenshot_2.png)[![Command 3](/assets/Screenshot_3.png)
-[![Features](/assets/feature.png)
+![Command 1](/assets/Screenshot_1.png)
+![Command 2](/assets/Screenshot_2.png)
+![Command 3](/assets/Screenshot_3.png)
+![Features](/assets/feature.png)
 
 ## 💨 Run the projects
 
