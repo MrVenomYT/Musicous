@@ -34,7 +34,7 @@ If you have major coding issues with this bot, please join and ask for help.
 
 ## 💨 Run the projects
 
-[![Run on Repl.it](https://repl.it/badge/github/MrVenomYT/Discord-MusicBot-2)](https://repl.it/github/MrVenomYT/Discord-MusicBot-2)
+[![Run on Repl.it](https://repl.it/badge/github/MrVenomYT/Musicous)](https://repl.it/github/MrVenomYT/Musicous)
 > Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
 
 
